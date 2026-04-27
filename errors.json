@@ -1,0 +1,10 @@
+{
+  "1142": {
+    "title_en": "Cash jam detected",
+    "title_ar": "انحشار نقدي",
+    "cause_en": "Notes stuck inside path",
+    "cause_ar": "الأوراق عالقة داخل المسار",
+    "solution_en": "Clear jammed notes",
+    "solution_ar": "إزالة الأوراق العالقة"
+  }
+}
