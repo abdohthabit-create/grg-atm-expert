@@ -1,0 +1,22 @@
+
+name: grg_atm_expert_ai
+description: GRG ATM Expert AI PRO Mixed Models
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/errors.json
+    - assets/lang/en.json
+    - assets/lang/ar.json
+    - assets/images/
